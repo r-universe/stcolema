@@ -8,3 +8,8 @@
 	url = https://github.com/stcolema/batchmix
 	shallow = true
 	registered = true
+[submodule "mdir"]
+	path = mdir
+	url = https://github.com/stcolema/mdir
+	shallow = true
+	registered = true
