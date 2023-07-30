@@ -5,6 +5,3 @@
 [submodule "batchmix"]
 	path = batchmix
 	url = https://github.com/stcolema/batchmix
-[submodule "mdir"]
-	path = mdir
-	url = https://github.com/stcolema/mdir
